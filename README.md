@@ -2,7 +2,7 @@
 <img align='right' src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="180">
 <p>
 🖥️ I recently completed my Bachelor's Degree in Computer Science at 
-<em><a href="https://www.utfpr.edu.br/">Federal University of Tecnology - Paraná 📜</a></em><br>
+<em><a href="https://www.utfpr.edu.br/" target="_blank">Federal University of Tecnology - Paraná 📜</a></em><br>
 </p>
 <p>🇧🇷 from Minas Gerais/Brazil</p>
 
