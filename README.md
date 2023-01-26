@@ -3,8 +3,8 @@
 <p>
 🖥️ I recently completed my Bachelor's Degree in Computer Science at 
 <em><a href="https://www.utfpr.edu.br/" target="_blank">Federal University of Tecnology - Paraná 📜</a></em><br>
+    <p>From Minas Gerais🔺/Brazil🇧🇷</p>
 </p>
-<p>🇧🇷 from Minas Gerais/Brazil</p>
 
 [![Linkedin: joseoct](https://img.shields.io/badge/-joseoct-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseoct/)](https://www.linkedin.com/in/joseoct/)<br>
 ![GitHub followers](https://img.shields.io/github/followers/joseoct?label=Follow&style=social)<br>
