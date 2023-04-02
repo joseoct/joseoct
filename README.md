@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hi There, I'm José Octávio! I'm Software Developer and <img src="https://emojis.slackmojis.com/emojis/images/1643514110/700/vim.png?1643514110" width="30"> enthusiastic</h2>
-<img align='right' src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="180">
+
 <p>
 🖥️ I recently completed my Bachelor's Degree in Computer Science at 
 <em><a href="https://www.utfpr.edu.br/" target="_blank">Federal University of Tecnology - Paraná 📜</a></em><br>
