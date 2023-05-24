@@ -9,7 +9,9 @@
 [![Linkedin: joseoct](https://img.shields.io/badge/-joseoct-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseoct/)](https://www.linkedin.com/in/joseoct/)<br>
 ![GitHub followers](https://img.shields.io/github/followers/joseoct?label=Follow&style=social)<br>
 [![website](https://img.shields.io/badge/Website-f6ad55.svg?&style=flat-square&logo=Google-Chrome&logoColor=black&link=https://joseoct.github.io/devfolio/)](https://joseoct.github.io/devfolio/)<br>
+<!---
 ![](https://visitor-badge.glitch.me/badge?page_id=joseoct.joseoct)<br>
+-->
 
 ```javascript
 const joseoct = {
