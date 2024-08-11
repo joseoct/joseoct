@@ -1,9 +1,9 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hi There, I'm José Octávio! I'm Software Developer and <img src="https://emojis.slackmojis.com/emojis/images/1643514110/700/vim.png?1643514110" width="30"> enthusiastic</h2>
 
 <p>
-🖥️ I recently completed my Bachelor's Degree in Computer Science at 
+🖥️ Computer scientist from
 <em><a href="https://www.utfpr.edu.br/" target="_blank">Federal University of Tecnology - Paraná 📜</a></em><br>
-    <p>From Minas Gerais🔺/Brazil🇧🇷</p>
+    <p>From 🔺Minas Gerais / Brazil</p>
 </p>
 
 [![Linkedin: joseoct](https://img.shields.io/badge/-joseoct-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseoct/)](https://www.linkedin.com/in/joseoct/)<br>
@@ -15,28 +15,28 @@
 
 ```javascript
 const joseoct = {
-    code: ["JavaScript", "TypeScript, "HTML", "CSS"],
-    askMeAbout: ["web dev", "back dev", "tech", "app dev", "vim", "neovim", "linux"],
+    code: ["Dart", "JavaScript", "TypeScript, "HTML", "CSS"],
+    askMeAbout: ["flutter", "web dev", "back dev", "tech", "app dev", "vim", "neovim", "linux"],
     technologies: {
         backEnd: {
-            ts: ["Node", "Express", "NestJS"],
+            ts: ["Node", "Express"],
         },
         frontEnd: {
             react: ["NextJS", "React-Query"],
         },
         mobileApp: {
-            crossPlatform: ["React-Native, Angular, Ionic"]
+            crossPlatform: ["Flutter", "React-Native", "Angular", "Ionic"]
         },
         devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql", "PostgreSQL"],
+        databases: ["MySql", "PostgreSQL", "MongoDB", "Firebase"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "I am currently looking for new opportunities"
+    currentFocus: "Flutter"
 };
 ```
 **Currently, I Mostly Code in:**
 ```text
-TypeScript, HTML, CSS
+Dart, TypeScript, HTML, CSS
 ```
 ## ⌨️ Technologies/Frameworks/OS/Tools that I like to work 🖱️ 
 
@@ -46,7 +46,7 @@ TypeScript, HTML, CSS
       <img title="TypeScript" alt"TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img title="NodeJS" alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       <img title="Express" alt"Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <!---<img title="NestJS" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />-->
       <br>
       <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img title="CSS-3" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
